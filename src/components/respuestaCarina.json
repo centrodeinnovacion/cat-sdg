@@ -1,0 +1,107 @@
+{
+  "analisis": {
+    "evidencias": {
+      "pobreza": {
+        "meta_1_1": "<div id='ods_1_meta_1_1' class='ods' ods='ods_1' meta='meta_1_1' word='pobreza'><strong>pobreza</strong></div>",
+        "meta_1_2": "<div id='ods_1_meta_1_2' class='ods' ods='ods_1' meta='meta_1_2' word='pobreza'><strong>pobreza</strong></div>",
+        "meta_1_a": "<div id='ods_1_meta_1_a' class='ods' ods='ods_1' meta='meta_1_a' word='pobreza'><strong>pobreza</strong></div>",
+        "meta_15_9": "<div id='ods_15_meta_15_9' class='ods' ods='ods_15' meta='meta_15_9' word='pobreza'><strong>pobreza</strong></div>",
+        "meta_17_15": "<div id='ods_17_meta_17_15' class='ods' ods='ods_17' meta='meta_17_15' word='pobreza'><strong>pobreza</strong></div>"
+      },
+      "empleo": {
+        "meta_2_3": "<div id='ods_2_meta_2_3' class='ods' ods='ods_2' meta='meta_2_3' word='empleo'><strong>empleo</strong></div>",
+        "meta_4_4": "<div id='ods_4_meta_4_4' class='ods' ods='ods_4' meta='meta_4_4' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_3": "<div id='ods_8_meta_8_3' class='ods' ods='ods_8' meta='meta_8_3' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_5": "<div id='ods_8_meta_8_5' class='ods' ods='ods_8' meta='meta_8_5' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_6": "<div id='ods_8_meta_8_6' class='ods' ods='ods_8' meta='meta_8_6' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_8": "<div id='ods_8_meta_8_8' class='ods' ods='ods_8' meta='meta_8_8' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_9": "<div id='ods_8_meta_8_9' class='ods' ods='ods_8' meta='meta_8_9' word='empleo'><strong>empleo</strong></div>",
+        "meta_8_b": "<div id='ods_8_meta_8_b' class='ods' ods='ods_8' meta='meta_8_b' word='empleo'><strong>empleo</strong></div>",
+        "meta_9_2": "<div id='ods_9_meta_9_2' class='ods' ods='ods_9' meta='meta_9_2' word='empleo'><strong>empleo</strong></div>"
+      },
+      "escasez": {
+        "meta_6_4": "<div id='ods_6_meta_6_4' class='ods' ods='ods_6' meta='meta_6_4' word='escasez'><strong>escasez</strong></div>"
+      },
+      "seguridad": {
+        "meta_11_2": "<div id='ods_11_meta_11_2' class='ods' ods='ods_11' meta='meta_11_2' word='seguridad'><strong>seguridad</strong></div>"
+      }
+    },
+    "resultados": {
+      "ods_1": {
+        "meta_1_1": "pobreza",
+        "meta_1_2": "pobreza",
+        "meta_1_a": "pobreza"
+      },
+      "ods_2": {
+        "meta_2_3": "empleo"
+      },
+      "ods_4": {
+        "meta_4_4": "empleo"
+      },
+      "ods_6": {
+        "meta_6_4": "escasez"
+      },
+      "ods_8": {
+        "meta_8_3": "empleo",
+        "meta_8_5": "empleo",
+        "meta_8_6": "empleo",
+        "meta_8_8": "empleo",
+        "meta_8_9": "empleo",
+        "meta_8_b": "empleo"
+      },
+      "ods_9": {
+        "meta_9_2": "empleo"
+      },
+      "ods_11": {
+        "meta_11_2": "seguridad"
+      },
+      "ods_15": {
+        "meta_15_9": "pobreza"
+      },
+      "ods_17": {
+        "meta_17_15": "pobreza"
+      },
+      "porcentajes": {
+        "ods": {
+          "ods_1": [
+            3,
+            "18.8 %"
+          ],
+          "ods_2": [
+            1,
+            "6.3 %"
+          ],
+          "ods_4": [
+            1,
+            "6.3 %"
+          ],
+          "ods_6": [
+            1,
+            "6.3 %"
+          ],
+          "ods_8": [
+            6,
+            "37.5 %"
+          ],
+          "ods_9": [
+            1,
+            "6.3 %"
+          ],
+          "ods_11": [
+            1,
+            "6.3 %"
+          ],
+          "ods_15": [
+            1,
+            "6.3 %"
+          ],
+          "ods_17": [
+            1,
+            "6.3 %"
+          ]
+        },
+        "length": 16
+      }
+    }
+  }
+}
